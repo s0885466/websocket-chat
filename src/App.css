@@ -20,3 +20,14 @@
 .App-link {
   color: #09d3ac;
 }
+
+.message-block {
+  overflow: scroll;
+
+  height: 200px;
+  margin: 0 auto;
+  width: 50%;
+  background: antiquewhite;
+}
+
+
